@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a6b57"/><stop offset="1" stop-color="#062e25"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="url(#g)"/>
+<path d="M740 400h90a30 30 0 0 1 30 30v60a50 50 0 0 1-50 50h-70a30 30 0 0 1-30-30v-80a30 30 0 0 1 30-30z" fill="#e0c8f7" opacity=".9"/>
+<text x="800" y="620" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="34" letter-spacing="6" fill="#ffffff" opacity=".7">PLACEHOLDER · PVT</text>
+</svg>
